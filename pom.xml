@@ -22,17 +22,17 @@
     <!--***********************************************************************************-->
 
     <parent>
-        <groupId>net.fhirfactory.pegacorn</groupId>
-        <artifactId>pegacorn</artifactId>
-        <version>1.5.0-SNAPSHOT</version>
+        <groupId>net.fhirfactory.dricats</groupId>
+        <artifactId>dricats</artifactId>
+        <version>1.6.0-SNAPSHOT</version>
         <relativePath>../pegacorn</relativePath>
     </parent>
 
-    <artifactId>pegacorn-hl7v2-fhir-converter</artifactId>
+    <artifactId>dricats-hl7v2-fhir-converter</artifactId>
     <packaging>jar</packaging>
     <version>1.0.1-SNAPSHOT</version>
 
-    <name>Pegacorn :: HL7-FHIR-Converter</name>
+    <name>DRICATS :: HL7-FHIR-Converter</name>
     <description>Converter of HL7 to FHIR JSON</description>
 
     <!--***********************************************************************************-->
