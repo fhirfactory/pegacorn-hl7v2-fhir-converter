@@ -7,14 +7,19 @@
 AllergyIntoleranceCategory:
    AA: environment
    DA: medication
+   DRUG: medication
    EA: environment
    FA: food
+   FOOD: food
    LA: environment
    PA: environment
 AllergyIntoleranceCriticality:
    MI: low
    SV: high
    U: unable-to-assess
+AllergyIntoleranceType:
+   AL: allergy
+   IN: intolerance
 ObservationStatus:
    C: corrected
    D: cancelled
